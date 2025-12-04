@@ -1,0 +1,6 @@
+Part 1:
+16757 - too low (forgot to investigate the "lefiest" biggest number)
+16946 - right 
+
+Part 2:
+0168627047606506 - right, but saw the initial logic on hyperneutrino
