@@ -1,0 +1,5 @@
+Part 1:
+1504 - right
+
+Part 2:
+5137133207830 - right (not able to solve, got a solution on python)
