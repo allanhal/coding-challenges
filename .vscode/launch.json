@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/2025/day06/part-2.js"
+      "program": "${workspaceFolder}/2025/day07/part-2-new.js"
     }
   ]
 }
