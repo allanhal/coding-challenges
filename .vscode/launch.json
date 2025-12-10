@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/hackerrank/new-year-chaos/index.js"
+      "program": "${workspaceFolder}/2025/day09/part-2-new.js"
     }
   ]
 }
