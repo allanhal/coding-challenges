@@ -1,0 +1,10 @@
+{
+  "watch": ["."],
+  "ext": "*",
+  "ignore": ["node_modules"],
+  "exec": "node index-3.js",
+  "events": {
+    "start": "clear",
+    "restart": "clear"
+  }
+}
